@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import BlogPreviews from './containers/BlogPreviews'
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <header className="blog-header">
         <h1>Dev-Blog</h1>
       </header>
+      <BlogPreviews />
     </div>
   );
 }
