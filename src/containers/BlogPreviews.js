@@ -31,7 +31,7 @@ Thanks for reading, check out the React site for an intro and get started with t
           <p>By J.Sinkler</p>
           <div>
             <p>
-            CodePen is a sandbox of sorts where you can test ideas, or fully develop a website. The benefit is in the layout where you can see html, css, and javascript side by side, while also looking at a preview of what your site would look like. I liked being able to make quick changes and see ti immediately while staying on the same page where I could see all my code.
+            CodePen is a sandbox of sorts where you can test ideas, or fully develop a website. The benefit is in the layout where you can see html, css, and javascript side by side, while also looking at a preview of what your site would look like. I liked being able to make quick changes and see it immediately while staying on the same page where I could see all my code.
             </p>
             <p>
             There are also a lot of things to learn on CodePen. People make all sorts of small components that you might want to borrow ideas from. I've seen an svg tool to help you build non-rectangular divs, to a cat that chases it's tail to represent a page-loading. There are tons of examples that people share, many of which the authors spend a good deal of time on.</p>
